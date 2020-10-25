@@ -1,4 +1,5 @@
 RedStone Library based on Cryptopp/++
+Built And Designed for purpose for multiblock chain concept
 Crypto++: free C++ Class Library of Cryptographic Schemes
 Version 8.3 - TBD
 
