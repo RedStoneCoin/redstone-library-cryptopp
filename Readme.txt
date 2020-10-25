@@ -1,3 +1,4 @@
+RedStone Library based on Cryptopp/++
 Crypto++: free C++ Class Library of Cryptographic Schemes
 Version 8.3 - TBD
 
